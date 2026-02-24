@@ -20,7 +20,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/itagn/itagn/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/itagn/itagn/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/itagn/sun0225SUN/itagn/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/itagn/itagn/itagn/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ---
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itagn&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itagn&theme=tokyo-night&hide_border=true&area=true)](https://github.com/itagn/github-readme-activity-graph)
 
 </div>
 
