@@ -1,13 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%EF%BC%8CI+am+itagn%EF%BD%9E)](https://git.io/typing-svg)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/itagn/itagn/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/itagn/itagn/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/itagn/sun0225SUN/itagn/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-
 <div align="center">
   
 [![GitHub followers](https://img.shields.io/github/followers/itagn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/itagn)
@@ -21,6 +14,14 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itagn&theme=tokyonight" alt="Contribution Streak" width="450"/>
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/itagn/itagn/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/itagn/itagn/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/itagn/sun0225SUN/itagn/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 ---
 
