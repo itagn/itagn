@@ -1,16 +1,27 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%EF%BC%8CI+am+itagn%EF%BD%9E)](https://git.io/typing-svg)
 
-<!--
-**itagn/itagn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/itagn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/itagn)
+[![GitHub User's stars](https://img.shields.io/github/stars/itagn?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/itagn)
+[![Profile Views](https://komarev.com/ghpvc/?username=itagn&style=for-the-badge&color=blueviolet)](https://github.com/itagn)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itagn&theme=tokyonight" alt="Contribution Streak" width="450"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itagn&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
